@@ -1,0 +1,501 @@
+,Media,Year,IMDB,Votes,Restriction,Genre1,Genre2,Genre3,Type
+0,The Shawshank Redemption,   1 9 9 4  ,9.3,2297597,R,Drama            ,,,Movie
+1,The Dark Knight,   2 0 0 8  ,9,2261822,PG-13,Action,Crime,Drama            ,Movie
+2,Inception,   2 0 1 0  ,8.8,2023823,PG-13,Action,Adventure,Sci-Fi            ,Movie
+3,Fight Club,   1 9 9 9  ,8.8,1821262,R,Drama            ,,,Movie
+4,Pulp Fiction,   1 9 9 4  ,8.9,1793933,R,Crime,Drama            ,,Movie
+5,Forrest Gump,   1 9 9 4  ,8.8,1770394,PG-13,Drama,Romance            ,,Movie
+6,Game of Thrones,   2 0 1 1-2 0 1 9  ,9.3,1717705,TV-MA,Action,Adventure,Drama            ,Series
+7,The Matrix,   1 9 9 9  ,8.7,1644803,R,Action,Sci-Fi            ,,Movie
+8,The Lord of the Rings: The Fellowship of the Ring,   2 0 0 1  ,8.8,1630944,PG-13,Action,Adventure,Drama            ,Movie
+9,The Lord of the Rings: The Return of the King,   2 0 0 3  ,8.9,1615184,PG-13,Action,Adventure,Drama            ,Movie
+10,The Godfather,   1 9 7 2  ,9.2,1585686,R,Crime,Drama            ,,Movie
+11,The Dark Knight Rises,   2 0 1 2  ,8.4,1492004,PG-13,Action,Adventure            ,,Movie
+12,Interstellar,   2 0 1 4  ,8.6,1469639,PG-13,Adventure,Drama,Sci-Fi            ,Movie
+13,The Lord of the Rings: The Two Towers,   2 0 0 2  ,8.7,1459892,PG-13,Action,Adventure,Drama            ,Movie
+14,Se7en,   1 9 9 5  ,8.6,1415092,R,Crime,Drama,Mystery            ,Movie
+15,Breaking Bad,   2 0 0 8-2 0 1 3  ,9.5,1406342,TV-MA,Crime,Drama,Thriller            ,Series
+16,Django Unchained,   2 0 1 2  ,8.4,1329472,R,Drama,Western            ,,Movie
+17,Gladiator,   2 0 0 0  ,8.5,1317748,R,Action,Adventure,Drama            ,Movie
+18,Batman Begins,   2 0 0 5  ,8.2,1287848,PG-13,Action,Adventure            ,,Movie
+19,The Avengers,   2 0 1 2  ,8,1246863,PG-13,Action,Adventure,Sci-Fi            ,Movie
+20,The Silence of the Lambs,   1 9 9 1  ,8.6,1245696,R,Crime,Drama,Thriller            ,Movie
+21,Inglourious Basterds,   2 0 0 9  ,8.3,1240302,R,Adventure,Drama,War            ,Movie
+22,Saving Private Ryan,   1 9 9 8  ,8.6,1213448,R,Drama,War            ,,Movie
+23,Star Wars: Episode IV - A New Hope,   1 9 7 7  ,8.6,1211607,PG,Action,Adventure,Fantasy            ,Movie
+24,Schindler's List,   1 9 9 3  ,8.9,1192410,R,Biography,Drama,History            ,Movie
+25,The Departed,   2 0 0 6  ,8.5,1168367,R,Crime,Drama,Thriller            ,Movie
+26,The Prestige,   2 0 0 6  ,8.5,1166030,PG-13,Drama,Mystery,Sci-Fi            ,Movie
+27,The Wolf of Wall Street,   2 0 1 3  ,8.2,1153560,R,Biography,Crime,Drama            ,Movie
+28,Star Wars: Episode V - The Empire Strikes Back,   1 9 8 0  ,8.7,1139862,PG,Action,Adventure,Fantasy            ,Movie
+29,The Green Mile,   1 9 9 9  ,8.6,1123080,R,Crime,Drama,Fantasy            ,Movie
+30,Memento,   2 0 0 0  ,8.4,1107818,R,Mystery,Thriller            ,,Movie
+31,The Godfather: Part II,   1 9 7 4  ,9,1107868,R,Crime,Drama            ,,Movie
+32,Avatar,   2 0 0 9  ,7.8,1106231,PG-13,Action,Adventure,Fantasy            ,Movie
+33,Shutter Island,   2 0 1 0  ,8.2,1106162,R,Mystery,Thriller            ,,Movie
+34,American Beauty,   1 9 9 9  ,8.3,1055121,R,Drama            ,,,Movie
+35,Back to the Future,   1 9 8 5  ,8.5,1036912,PG,Adventure,Comedy,Sci-Fi            ,Movie
+36,Titanic,   1 9 9 7  ,7.8,1029275,PG-13,Drama,Romance            ,,Movie
+37,Guardians of the Galaxy,   2 0 1 4  ,8,1029214,PG-13,Action,Adventure,Comedy            ,Movie
+38,American History X,   1 9 9 8  ,8.5,1020440,R,Drama            ,,,Movie
+39,V for Vendetta,   2 0 0 5  ,8.2,1016263,R,Action,Drama,Sci-Fi            ,Movie
+40,Léon: The Professional,   1 9 9 4  ,8.5,1015947,R,Action,Crime,Drama            ,Movie
+41,Pirates of the Caribbean: The Curse of the Black Pearl,   2 0 0 3  ,8,1005246,PG-13,Action,Adventure,Fantasy            ,Movie
+42,Goodfellas,   1 9 9 0  ,8.7,1000216,R,Biography,Crime,Drama            ,Movie
+43,Kill Bill: Vol. 1,   2 0 0 3  ,8.1,984369,R,Action,Crime,Thriller            ,Movie
+44,WALL·E,   2 0 0 8  ,8.4,981770,G,Animation,Adventure,Family            ,Movie
+45,Terminator 2: Judgment Day,   1 9 9 1  ,8.5,981465,R,Action,Sci-Fi            ,,Movie
+46,The Usual Suspects,   1 9 9 5  ,8.5,975780,R,Crime,Mystery,Thriller            ,Movie
+47,Braveheart,   1 9 9 5  ,8.3,946814,R,Biography,Drama,History            ,Movie
+48,Star Wars: Episode VI - Return of the Jedi,   1 9 8 3  ,8.3,934272,PG,Action,Adventure,Fantasy            ,Movie
+49,Finding Nemo,   2 0 0 3  ,8.1,934202,G,Animation,Adventure,Comedy            ,Movie
+50,The Shawshank Redemption,   1 9 9 4  ,9.3,2297597,R,Drama            ,,,Movie
+51,The Dark Knight,   2 0 0 8  ,9,2261822,PG-13,Action,Crime,Drama            ,Movie
+52,Inception,   2 0 1 0  ,8.8,2023823,PG-13,Action,Adventure,Sci-Fi            ,Movie
+53,Fight Club,   1 9 9 9  ,8.8,1821262,R,Drama            ,,,Movie
+54,Pulp Fiction,   1 9 9 4  ,8.9,1793933,R,Crime,Drama            ,,Movie
+55,Forrest Gump,   1 9 9 4  ,8.8,1770394,PG-13,Drama,Romance            ,,Movie
+56,Game of Thrones,   2 0 1 1-2 0 1 9  ,9.3,1717705,TV-MA,Action,Adventure,Drama            ,Series
+57,The Matrix,   1 9 9 9  ,8.7,1644803,R,Action,Sci-Fi            ,,Movie
+58,The Lord of the Rings: The Fellowship of the Ring,   2 0 0 1  ,8.8,1630944,PG-13,Action,Adventure,Drama            ,Movie
+59,The Lord of the Rings: The Return of the King,   2 0 0 3  ,8.9,1615184,PG-13,Action,Adventure,Drama            ,Movie
+60,The Godfather,   1 9 7 2  ,9.2,1585686,R,Crime,Drama            ,,Movie
+61,The Dark Knight Rises,   2 0 1 2  ,8.4,1492004,PG-13,Action,Adventure            ,,Movie
+62,Interstellar,   2 0 1 4  ,8.6,1469639,PG-13,Adventure,Drama,Sci-Fi            ,Movie
+63,The Lord of the Rings: The Two Towers,   2 0 0 2  ,8.7,1459892,PG-13,Action,Adventure,Drama            ,Movie
+64,Se7en,   1 9 9 5  ,8.6,1415092,R,Crime,Drama,Mystery            ,Movie
+65,Breaking Bad,   2 0 0 8-2 0 1 3  ,9.5,1406342,TV-MA,Crime,Drama,Thriller            ,Series
+66,Django Unchained,   2 0 1 2  ,8.4,1329472,R,Drama,Western            ,,Movie
+67,Gladiator,   2 0 0 0  ,8.5,1317748,R,Action,Adventure,Drama            ,Movie
+68,Batman Begins,   2 0 0 5  ,8.2,1287848,PG-13,Action,Adventure            ,,Movie
+69,The Avengers,   2 0 1 2  ,8,1246863,PG-13,Action,Adventure,Sci-Fi            ,Movie
+70,The Silence of the Lambs,   1 9 9 1  ,8.6,1245696,R,Crime,Drama,Thriller            ,Movie
+71,Inglourious Basterds,   2 0 0 9  ,8.3,1240302,R,Adventure,Drama,War            ,Movie
+72,Saving Private Ryan,   1 9 9 8  ,8.6,1213448,R,Drama,War            ,,Movie
+73,Star Wars: Episode IV - A New Hope,   1 9 7 7  ,8.6,1211607,PG,Action,Adventure,Fantasy            ,Movie
+74,Schindler's List,   1 9 9 3  ,8.9,1192410,R,Biography,Drama,History            ,Movie
+75,The Departed,   2 0 0 6  ,8.5,1168367,R,Crime,Drama,Thriller            ,Movie
+76,The Prestige,   2 0 0 6  ,8.5,1166030,PG-13,Drama,Mystery,Sci-Fi            ,Movie
+77,The Wolf of Wall Street,   2 0 1 3  ,8.2,1153560,R,Biography,Crime,Drama            ,Movie
+78,Star Wars: Episode V - The Empire Strikes Back,   1 9 8 0  ,8.7,1139862,PG,Action,Adventure,Fantasy            ,Movie
+79,The Green Mile,   1 9 9 9  ,8.6,1123080,R,Crime,Drama,Fantasy            ,Movie
+80,Memento,   2 0 0 0  ,8.4,1107818,R,Mystery,Thriller            ,,Movie
+81,The Godfather: Part II,   1 9 7 4  ,9,1107868,R,Crime,Drama            ,,Movie
+82,Avatar,   2 0 0 9  ,7.8,1106231,PG-13,Action,Adventure,Fantasy            ,Movie
+83,Shutter Island,   2 0 1 0  ,8.2,1106162,R,Mystery,Thriller            ,,Movie
+84,American Beauty,   1 9 9 9  ,8.3,1055121,R,Drama            ,,,Movie
+85,Back to the Future,   1 9 8 5  ,8.5,1036912,PG,Adventure,Comedy,Sci-Fi            ,Movie
+86,Titanic,   1 9 9 7  ,7.8,1029275,PG-13,Drama,Romance            ,,Movie
+87,Guardians of the Galaxy,   2 0 1 4  ,8,1029214,PG-13,Action,Adventure,Comedy            ,Movie
+88,American History X,   1 9 9 8  ,8.5,1020440,R,Drama            ,,,Movie
+89,V for Vendetta,   2 0 0 5  ,8.2,1016263,R,Action,Drama,Sci-Fi            ,Movie
+90,Léon: The Professional,   1 9 9 4  ,8.5,1015947,R,Action,Crime,Drama            ,Movie
+91,Pirates of the Caribbean: The Curse of the Black Pearl,   2 0 0 3  ,8,1005246,PG-13,Action,Adventure,Fantasy            ,Movie
+92,Goodfellas,   1 9 9 0  ,8.7,1000216,R,Biography,Crime,Drama            ,Movie
+93,Kill Bill: Vol. 1,   2 0 0 3  ,8.1,984369,R,Action,Crime,Thriller            ,Movie
+94,WALL·E,   2 0 0 8  ,8.4,981770,G,Animation,Adventure,Family            ,Movie
+95,Terminator 2: Judgment Day,   1 9 9 1  ,8.5,981465,R,Action,Sci-Fi            ,,Movie
+96,The Usual Suspects,   1 9 9 5  ,8.5,975780,R,Crime,Mystery,Thriller            ,Movie
+97,Braveheart,   1 9 9 5  ,8.3,946814,R,Biography,Drama,History            ,Movie
+98,Star Wars: Episode VI - Return of the Jedi,   1 9 8 3  ,8.3,934272,PG,Action,Adventure,Fantasy            ,Movie
+99,Finding Nemo,   2 0 0 3  ,8.1,934202,G,Animation,Adventure,Comedy            ,Movie
+100,The Shawshank Redemption,   1 9 9 4  ,9.3,2297597,R,Drama            ,,,Movie
+101,The Dark Knight,   2 0 0 8  ,9,2261822,PG-13,Action,Crime,Drama            ,Movie
+102,Inception,   2 0 1 0  ,8.8,2023823,PG-13,Action,Adventure,Sci-Fi            ,Movie
+103,Fight Club,   1 9 9 9  ,8.8,1821262,R,Drama            ,,,Movie
+104,Pulp Fiction,   1 9 9 4  ,8.9,1793933,R,Crime,Drama            ,,Movie
+105,Forrest Gump,   1 9 9 4  ,8.8,1770394,PG-13,Drama,Romance            ,,Movie
+106,Game of Thrones,   2 0 1 1-2 0 1 9  ,9.3,1717705,TV-MA,Action,Adventure,Drama            ,Series
+107,The Matrix,   1 9 9 9  ,8.7,1644803,R,Action,Sci-Fi            ,,Movie
+108,The Lord of the Rings: The Fellowship of the Ring,   2 0 0 1  ,8.8,1630944,PG-13,Action,Adventure,Drama            ,Movie
+109,The Lord of the Rings: The Return of the King,   2 0 0 3  ,8.9,1615184,PG-13,Action,Adventure,Drama            ,Movie
+110,The Godfather,   1 9 7 2  ,9.2,1585686,R,Crime,Drama            ,,Movie
+111,The Dark Knight Rises,   2 0 1 2  ,8.4,1492004,PG-13,Action,Adventure            ,,Movie
+112,Interstellar,   2 0 1 4  ,8.6,1469639,PG-13,Adventure,Drama,Sci-Fi            ,Movie
+113,The Lord of the Rings: The Two Towers,   2 0 0 2  ,8.7,1459892,PG-13,Action,Adventure,Drama            ,Movie
+114,Se7en,   1 9 9 5  ,8.6,1415092,R,Crime,Drama,Mystery            ,Movie
+115,Breaking Bad,   2 0 0 8-2 0 1 3  ,9.5,1406342,TV-MA,Crime,Drama,Thriller            ,Series
+116,Django Unchained,   2 0 1 2  ,8.4,1329472,R,Drama,Western            ,,Movie
+117,Gladiator,   2 0 0 0  ,8.5,1317748,R,Action,Adventure,Drama            ,Movie
+118,Batman Begins,   2 0 0 5  ,8.2,1287848,PG-13,Action,Adventure            ,,Movie
+119,The Avengers,   2 0 1 2  ,8,1246863,PG-13,Action,Adventure,Sci-Fi            ,Movie
+120,The Silence of the Lambs,   1 9 9 1  ,8.6,1245696,R,Crime,Drama,Thriller            ,Movie
+121,Inglourious Basterds,   2 0 0 9  ,8.3,1240302,R,Adventure,Drama,War            ,Movie
+122,Saving Private Ryan,   1 9 9 8  ,8.6,1213448,R,Drama,War            ,,Movie
+123,Star Wars: Episode IV - A New Hope,   1 9 7 7  ,8.6,1211607,PG,Action,Adventure,Fantasy            ,Movie
+124,Schindler's List,   1 9 9 3  ,8.9,1192410,R,Biography,Drama,History            ,Movie
+125,The Departed,   2 0 0 6  ,8.5,1168367,R,Crime,Drama,Thriller            ,Movie
+126,The Prestige,   2 0 0 6  ,8.5,1166030,PG-13,Drama,Mystery,Sci-Fi            ,Movie
+127,The Wolf of Wall Street,   2 0 1 3  ,8.2,1153560,R,Biography,Crime,Drama            ,Movie
+128,Star Wars: Episode V - The Empire Strikes Back,   1 9 8 0  ,8.7,1139862,PG,Action,Adventure,Fantasy            ,Movie
+129,The Green Mile,   1 9 9 9  ,8.6,1123080,R,Crime,Drama,Fantasy            ,Movie
+130,Memento,   2 0 0 0  ,8.4,1107818,R,Mystery,Thriller            ,,Movie
+131,The Godfather: Part II,   1 9 7 4  ,9,1107868,R,Crime,Drama            ,,Movie
+132,Avatar,   2 0 0 9  ,7.8,1106231,PG-13,Action,Adventure,Fantasy            ,Movie
+133,Shutter Island,   2 0 1 0  ,8.2,1106162,R,Mystery,Thriller            ,,Movie
+134,American Beauty,   1 9 9 9  ,8.3,1055121,R,Drama            ,,,Movie
+135,Back to the Future,   1 9 8 5  ,8.5,1036912,PG,Adventure,Comedy,Sci-Fi            ,Movie
+136,Titanic,   1 9 9 7  ,7.8,1029275,PG-13,Drama,Romance            ,,Movie
+137,Guardians of the Galaxy,   2 0 1 4  ,8,1029214,PG-13,Action,Adventure,Comedy            ,Movie
+138,American History X,   1 9 9 8  ,8.5,1020440,R,Drama            ,,,Movie
+139,V for Vendetta,   2 0 0 5  ,8.2,1016263,R,Action,Drama,Sci-Fi            ,Movie
+140,Léon: The Professional,   1 9 9 4  ,8.5,1015947,R,Action,Crime,Drama            ,Movie
+141,Pirates of the Caribbean: The Curse of the Black Pearl,   2 0 0 3  ,8,1005246,PG-13,Action,Adventure,Fantasy            ,Movie
+142,Goodfellas,   1 9 9 0  ,8.7,1000216,R,Biography,Crime,Drama            ,Movie
+143,Kill Bill: Vol. 1,   2 0 0 3  ,8.1,984369,R,Action,Crime,Thriller            ,Movie
+144,WALL·E,   2 0 0 8  ,8.4,981770,G,Animation,Adventure,Family            ,Movie
+145,Terminator 2: Judgment Day,   1 9 9 1  ,8.5,981465,R,Action,Sci-Fi            ,,Movie
+146,The Usual Suspects,   1 9 9 5  ,8.5,975780,R,Crime,Mystery,Thriller            ,Movie
+147,Braveheart,   1 9 9 5  ,8.3,946814,R,Biography,Drama,History            ,Movie
+148,Star Wars: Episode VI - Return of the Jedi,   1 9 8 3  ,8.3,934272,PG,Action,Adventure,Fantasy            ,Movie
+149,Finding Nemo,   2 0 0 3  ,8.1,934202,G,Animation,Adventure,Comedy            ,Movie
+150,The Shawshank Redemption,   1 9 9 4  ,9.3,2297597,R,Drama            ,,,Movie
+151,The Dark Knight,   2 0 0 8  ,9,2261822,PG-13,Action,Crime,Drama            ,Movie
+152,Inception,   2 0 1 0  ,8.8,2023823,PG-13,Action,Adventure,Sci-Fi            ,Movie
+153,Fight Club,   1 9 9 9  ,8.8,1821262,R,Drama            ,,,Movie
+154,Pulp Fiction,   1 9 9 4  ,8.9,1793933,R,Crime,Drama            ,,Movie
+155,Forrest Gump,   1 9 9 4  ,8.8,1770394,PG-13,Drama,Romance            ,,Movie
+156,Game of Thrones,   2 0 1 1-2 0 1 9  ,9.3,1717705,TV-MA,Action,Adventure,Drama            ,Series
+157,The Matrix,   1 9 9 9  ,8.7,1644803,R,Action,Sci-Fi            ,,Movie
+158,The Lord of the Rings: The Fellowship of the Ring,   2 0 0 1  ,8.8,1630944,PG-13,Action,Adventure,Drama            ,Movie
+159,The Lord of the Rings: The Return of the King,   2 0 0 3  ,8.9,1615184,PG-13,Action,Adventure,Drama            ,Movie
+160,The Godfather,   1 9 7 2  ,9.2,1585686,R,Crime,Drama            ,,Movie
+161,The Dark Knight Rises,   2 0 1 2  ,8.4,1492004,PG-13,Action,Adventure            ,,Movie
+162,Interstellar,   2 0 1 4  ,8.6,1469639,PG-13,Adventure,Drama,Sci-Fi            ,Movie
+163,The Lord of the Rings: The Two Towers,   2 0 0 2  ,8.7,1459892,PG-13,Action,Adventure,Drama            ,Movie
+164,Se7en,   1 9 9 5  ,8.6,1415092,R,Crime,Drama,Mystery            ,Movie
+165,Breaking Bad,   2 0 0 8-2 0 1 3  ,9.5,1406342,TV-MA,Crime,Drama,Thriller            ,Series
+166,Django Unchained,   2 0 1 2  ,8.4,1329472,R,Drama,Western            ,,Movie
+167,Gladiator,   2 0 0 0  ,8.5,1317748,R,Action,Adventure,Drama            ,Movie
+168,Batman Begins,   2 0 0 5  ,8.2,1287848,PG-13,Action,Adventure            ,,Movie
+169,The Avengers,   2 0 1 2  ,8,1246863,PG-13,Action,Adventure,Sci-Fi            ,Movie
+170,The Silence of the Lambs,   1 9 9 1  ,8.6,1245696,R,Crime,Drama,Thriller            ,Movie
+171,Inglourious Basterds,   2 0 0 9  ,8.3,1240302,R,Adventure,Drama,War            ,Movie
+172,Saving Private Ryan,   1 9 9 8  ,8.6,1213448,R,Drama,War            ,,Movie
+173,Star Wars: Episode IV - A New Hope,   1 9 7 7  ,8.6,1211607,PG,Action,Adventure,Fantasy            ,Movie
+174,Schindler's List,   1 9 9 3  ,8.9,1192410,R,Biography,Drama,History            ,Movie
+175,The Departed,   2 0 0 6  ,8.5,1168367,R,Crime,Drama,Thriller            ,Movie
+176,The Prestige,   2 0 0 6  ,8.5,1166030,PG-13,Drama,Mystery,Sci-Fi            ,Movie
+177,The Wolf of Wall Street,   2 0 1 3  ,8.2,1153560,R,Biography,Crime,Drama            ,Movie
+178,Star Wars: Episode V - The Empire Strikes Back,   1 9 8 0  ,8.7,1139862,PG,Action,Adventure,Fantasy            ,Movie
+179,The Green Mile,   1 9 9 9  ,8.6,1123080,R,Crime,Drama,Fantasy            ,Movie
+180,Memento,   2 0 0 0  ,8.4,1107818,R,Mystery,Thriller            ,,Movie
+181,The Godfather: Part II,   1 9 7 4  ,9,1107868,R,Crime,Drama            ,,Movie
+182,Avatar,   2 0 0 9  ,7.8,1106231,PG-13,Action,Adventure,Fantasy            ,Movie
+183,Shutter Island,   2 0 1 0  ,8.2,1106162,R,Mystery,Thriller            ,,Movie
+184,American Beauty,   1 9 9 9  ,8.3,1055121,R,Drama            ,,,Movie
+185,Back to the Future,   1 9 8 5  ,8.5,1036912,PG,Adventure,Comedy,Sci-Fi            ,Movie
+186,Titanic,   1 9 9 7  ,7.8,1029275,PG-13,Drama,Romance            ,,Movie
+187,Guardians of the Galaxy,   2 0 1 4  ,8,1029214,PG-13,Action,Adventure,Comedy            ,Movie
+188,American History X,   1 9 9 8  ,8.5,1020440,R,Drama            ,,,Movie
+189,V for Vendetta,   2 0 0 5  ,8.2,1016263,R,Action,Drama,Sci-Fi            ,Movie
+190,Léon: The Professional,   1 9 9 4  ,8.5,1015947,R,Action,Crime,Drama            ,Movie
+191,Pirates of the Caribbean: The Curse of the Black Pearl,   2 0 0 3  ,8,1005246,PG-13,Action,Adventure,Fantasy            ,Movie
+192,Goodfellas,   1 9 9 0  ,8.7,1000216,R,Biography,Crime,Drama            ,Movie
+193,Kill Bill: Vol. 1,   2 0 0 3  ,8.1,984369,R,Action,Crime,Thriller            ,Movie
+194,WALL·E,   2 0 0 8  ,8.4,981770,G,Animation,Adventure,Family            ,Movie
+195,Terminator 2: Judgment Day,   1 9 9 1  ,8.5,981465,R,Action,Sci-Fi            ,,Movie
+196,The Usual Suspects,   1 9 9 5  ,8.5,975780,R,Crime,Mystery,Thriller            ,Movie
+197,Braveheart,   1 9 9 5  ,8.3,946814,R,Biography,Drama,History            ,Movie
+198,Star Wars: Episode VI - Return of the Jedi,   1 9 8 3  ,8.3,934272,PG,Action,Adventure,Fantasy            ,Movie
+199,Finding Nemo,   2 0 0 3  ,8.1,934202,G,Animation,Adventure,Comedy            ,Movie
+200,The Shawshank Redemption,   1 9 9 4  ,9.3,2297597,R,Drama            ,,,Movie
+201,The Dark Knight,   2 0 0 8  ,9,2261822,PG-13,Action,Crime,Drama            ,Movie
+202,Inception,   2 0 1 0  ,8.8,2023823,PG-13,Action,Adventure,Sci-Fi            ,Movie
+203,Fight Club,   1 9 9 9  ,8.8,1821262,R,Drama            ,,,Movie
+204,Pulp Fiction,   1 9 9 4  ,8.9,1793933,R,Crime,Drama            ,,Movie
+205,Forrest Gump,   1 9 9 4  ,8.8,1770394,PG-13,Drama,Romance            ,,Movie
+206,Game of Thrones,   2 0 1 1-2 0 1 9  ,9.3,1717705,TV-MA,Action,Adventure,Drama            ,Series
+207,The Matrix,   1 9 9 9  ,8.7,1644803,R,Action,Sci-Fi            ,,Movie
+208,The Lord of the Rings: The Fellowship of the Ring,   2 0 0 1  ,8.8,1630944,PG-13,Action,Adventure,Drama            ,Movie
+209,The Lord of the Rings: The Return of the King,   2 0 0 3  ,8.9,1615184,PG-13,Action,Adventure,Drama            ,Movie
+210,The Godfather,   1 9 7 2  ,9.2,1585686,R,Crime,Drama            ,,Movie
+211,The Dark Knight Rises,   2 0 1 2  ,8.4,1492004,PG-13,Action,Adventure            ,,Movie
+212,Interstellar,   2 0 1 4  ,8.6,1469639,PG-13,Adventure,Drama,Sci-Fi            ,Movie
+213,The Lord of the Rings: The Two Towers,   2 0 0 2  ,8.7,1459892,PG-13,Action,Adventure,Drama            ,Movie
+214,Se7en,   1 9 9 5  ,8.6,1415092,R,Crime,Drama,Mystery            ,Movie
+215,Breaking Bad,   2 0 0 8-2 0 1 3  ,9.5,1406342,TV-MA,Crime,Drama,Thriller            ,Series
+216,Django Unchained,   2 0 1 2  ,8.4,1329472,R,Drama,Western            ,,Movie
+217,Gladiator,   2 0 0 0  ,8.5,1317748,R,Action,Adventure,Drama            ,Movie
+218,Batman Begins,   2 0 0 5  ,8.2,1287848,PG-13,Action,Adventure            ,,Movie
+219,The Avengers,   2 0 1 2  ,8,1246863,PG-13,Action,Adventure,Sci-Fi            ,Movie
+220,The Silence of the Lambs,   1 9 9 1  ,8.6,1245696,R,Crime,Drama,Thriller            ,Movie
+221,Inglourious Basterds,   2 0 0 9  ,8.3,1240302,R,Adventure,Drama,War            ,Movie
+222,Saving Private Ryan,   1 9 9 8  ,8.6,1213448,R,Drama,War            ,,Movie
+223,Star Wars: Episode IV - A New Hope,   1 9 7 7  ,8.6,1211607,PG,Action,Adventure,Fantasy            ,Movie
+224,Schindler's List,   1 9 9 3  ,8.9,1192410,R,Biography,Drama,History            ,Movie
+225,The Departed,   2 0 0 6  ,8.5,1168367,R,Crime,Drama,Thriller            ,Movie
+226,The Prestige,   2 0 0 6  ,8.5,1166030,PG-13,Drama,Mystery,Sci-Fi            ,Movie
+227,The Wolf of Wall Street,   2 0 1 3  ,8.2,1153560,R,Biography,Crime,Drama            ,Movie
+228,Star Wars: Episode V - The Empire Strikes Back,   1 9 8 0  ,8.7,1139862,PG,Action,Adventure,Fantasy            ,Movie
+229,The Green Mile,   1 9 9 9  ,8.6,1123080,R,Crime,Drama,Fantasy            ,Movie
+230,Memento,   2 0 0 0  ,8.4,1107818,R,Mystery,Thriller            ,,Movie
+231,The Godfather: Part II,   1 9 7 4  ,9,1107868,R,Crime,Drama            ,,Movie
+232,Avatar,   2 0 0 9  ,7.8,1106231,PG-13,Action,Adventure,Fantasy            ,Movie
+233,Shutter Island,   2 0 1 0  ,8.2,1106162,R,Mystery,Thriller            ,,Movie
+234,American Beauty,   1 9 9 9  ,8.3,1055121,R,Drama            ,,,Movie
+235,Back to the Future,   1 9 8 5  ,8.5,1036912,PG,Adventure,Comedy,Sci-Fi            ,Movie
+236,Titanic,   1 9 9 7  ,7.8,1029275,PG-13,Drama,Romance            ,,Movie
+237,Guardians of the Galaxy,   2 0 1 4  ,8,1029214,PG-13,Action,Adventure,Comedy            ,Movie
+238,American History X,   1 9 9 8  ,8.5,1020440,R,Drama            ,,,Movie
+239,V for Vendetta,   2 0 0 5  ,8.2,1016263,R,Action,Drama,Sci-Fi            ,Movie
+240,Léon: The Professional,   1 9 9 4  ,8.5,1015947,R,Action,Crime,Drama            ,Movie
+241,Pirates of the Caribbean: The Curse of the Black Pearl,   2 0 0 3  ,8,1005246,PG-13,Action,Adventure,Fantasy            ,Movie
+242,Goodfellas,   1 9 9 0  ,8.7,1000216,R,Biography,Crime,Drama            ,Movie
+243,Kill Bill: Vol. 1,   2 0 0 3  ,8.1,984369,R,Action,Crime,Thriller            ,Movie
+244,WALL·E,   2 0 0 8  ,8.4,981770,G,Animation,Adventure,Family            ,Movie
+245,Terminator 2: Judgment Day,   1 9 9 1  ,8.5,981465,R,Action,Sci-Fi            ,,Movie
+246,The Usual Suspects,   1 9 9 5  ,8.5,975780,R,Crime,Mystery,Thriller            ,Movie
+247,Braveheart,   1 9 9 5  ,8.3,946814,R,Biography,Drama,History            ,Movie
+248,Star Wars: Episode VI - Return of the Jedi,   1 9 8 3  ,8.3,934272,PG,Action,Adventure,Fantasy            ,Movie
+249,Finding Nemo,   2 0 0 3  ,8.1,934202,G,Animation,Adventure,Comedy            ,Movie
+250,The Shawshank Redemption,   1 9 9 4  ,9.3,2297597,R,Drama            ,,,Movie
+251,The Dark Knight,   2 0 0 8  ,9,2261822,PG-13,Action,Crime,Drama            ,Movie
+252,Inception,   2 0 1 0  ,8.8,2023823,PG-13,Action,Adventure,Sci-Fi            ,Movie
+253,Fight Club,   1 9 9 9  ,8.8,1821262,R,Drama            ,,,Movie
+254,Pulp Fiction,   1 9 9 4  ,8.9,1793933,R,Crime,Drama            ,,Movie
+255,Forrest Gump,   1 9 9 4  ,8.8,1770394,PG-13,Drama,Romance            ,,Movie
+256,Game of Thrones,   2 0 1 1-2 0 1 9  ,9.3,1717705,TV-MA,Action,Adventure,Drama            ,Series
+257,The Matrix,   1 9 9 9  ,8.7,1644803,R,Action,Sci-Fi            ,,Movie
+258,The Lord of the Rings: The Fellowship of the Ring,   2 0 0 1  ,8.8,1630944,PG-13,Action,Adventure,Drama            ,Movie
+259,The Lord of the Rings: The Return of the King,   2 0 0 3  ,8.9,1615184,PG-13,Action,Adventure,Drama            ,Movie
+260,The Godfather,   1 9 7 2  ,9.2,1585686,R,Crime,Drama            ,,Movie
+261,The Dark Knight Rises,   2 0 1 2  ,8.4,1492004,PG-13,Action,Adventure            ,,Movie
+262,Interstellar,   2 0 1 4  ,8.6,1469639,PG-13,Adventure,Drama,Sci-Fi            ,Movie
+263,The Lord of the Rings: The Two Towers,   2 0 0 2  ,8.7,1459892,PG-13,Action,Adventure,Drama            ,Movie
+264,Se7en,   1 9 9 5  ,8.6,1415092,R,Crime,Drama,Mystery            ,Movie
+265,Breaking Bad,   2 0 0 8-2 0 1 3  ,9.5,1406342,TV-MA,Crime,Drama,Thriller            ,Series
+266,Django Unchained,   2 0 1 2  ,8.4,1329472,R,Drama,Western            ,,Movie
+267,Gladiator,   2 0 0 0  ,8.5,1317748,R,Action,Adventure,Drama            ,Movie
+268,Batman Begins,   2 0 0 5  ,8.2,1287848,PG-13,Action,Adventure            ,,Movie
+269,The Avengers,   2 0 1 2  ,8,1246863,PG-13,Action,Adventure,Sci-Fi            ,Movie
+270,The Silence of the Lambs,   1 9 9 1  ,8.6,1245696,R,Crime,Drama,Thriller            ,Movie
+271,Inglourious Basterds,   2 0 0 9  ,8.3,1240302,R,Adventure,Drama,War            ,Movie
+272,Saving Private Ryan,   1 9 9 8  ,8.6,1213448,R,Drama,War            ,,Movie
+273,Star Wars: Episode IV - A New Hope,   1 9 7 7  ,8.6,1211607,PG,Action,Adventure,Fantasy            ,Movie
+274,Schindler's List,   1 9 9 3  ,8.9,1192410,R,Biography,Drama,History            ,Movie
+275,The Departed,   2 0 0 6  ,8.5,1168367,R,Crime,Drama,Thriller            ,Movie
+276,The Prestige,   2 0 0 6  ,8.5,1166030,PG-13,Drama,Mystery,Sci-Fi            ,Movie
+277,The Wolf of Wall Street,   2 0 1 3  ,8.2,1153560,R,Biography,Crime,Drama            ,Movie
+278,Star Wars: Episode V - The Empire Strikes Back,   1 9 8 0  ,8.7,1139862,PG,Action,Adventure,Fantasy            ,Movie
+279,The Green Mile,   1 9 9 9  ,8.6,1123080,R,Crime,Drama,Fantasy            ,Movie
+280,Memento,   2 0 0 0  ,8.4,1107818,R,Mystery,Thriller            ,,Movie
+281,The Godfather: Part II,   1 9 7 4  ,9,1107868,R,Crime,Drama            ,,Movie
+282,Avatar,   2 0 0 9  ,7.8,1106231,PG-13,Action,Adventure,Fantasy            ,Movie
+283,Shutter Island,   2 0 1 0  ,8.2,1106162,R,Mystery,Thriller            ,,Movie
+284,American Beauty,   1 9 9 9  ,8.3,1055121,R,Drama            ,,,Movie
+285,Back to the Future,   1 9 8 5  ,8.5,1036912,PG,Adventure,Comedy,Sci-Fi            ,Movie
+286,Titanic,   1 9 9 7  ,7.8,1029275,PG-13,Drama,Romance            ,,Movie
+287,Guardians of the Galaxy,   2 0 1 4  ,8,1029214,PG-13,Action,Adventure,Comedy            ,Movie
+288,American History X,   1 9 9 8  ,8.5,1020440,R,Drama            ,,,Movie
+289,V for Vendetta,   2 0 0 5  ,8.2,1016263,R,Action,Drama,Sci-Fi            ,Movie
+290,Léon: The Professional,   1 9 9 4  ,8.5,1015947,R,Action,Crime,Drama            ,Movie
+291,Pirates of the Caribbean: The Curse of the Black Pearl,   2 0 0 3  ,8,1005246,PG-13,Action,Adventure,Fantasy            ,Movie
+292,Goodfellas,   1 9 9 0  ,8.7,1000216,R,Biography,Crime,Drama            ,Movie
+293,Kill Bill: Vol. 1,   2 0 0 3  ,8.1,984369,R,Action,Crime,Thriller            ,Movie
+294,WALL·E,   2 0 0 8  ,8.4,981770,G,Animation,Adventure,Family            ,Movie
+295,Terminator 2: Judgment Day,   1 9 9 1  ,8.5,981465,R,Action,Sci-Fi            ,,Movie
+296,The Usual Suspects,   1 9 9 5  ,8.5,975780,R,Crime,Mystery,Thriller            ,Movie
+297,Braveheart,   1 9 9 5  ,8.3,946814,R,Biography,Drama,History            ,Movie
+298,Star Wars: Episode VI - Return of the Jedi,   1 9 8 3  ,8.3,934272,PG,Action,Adventure,Fantasy            ,Movie
+299,Finding Nemo,   2 0 0 3  ,8.1,934202,G,Animation,Adventure,Comedy            ,Movie
+300,The Shawshank Redemption,   1 9 9 4  ,9.3,2297597,R,Drama            ,,,Movie
+301,The Dark Knight,   2 0 0 8  ,9,2261822,PG-13,Action,Crime,Drama            ,Movie
+302,Inception,   2 0 1 0  ,8.8,2023823,PG-13,Action,Adventure,Sci-Fi            ,Movie
+303,Fight Club,   1 9 9 9  ,8.8,1821262,R,Drama            ,,,Movie
+304,Pulp Fiction,   1 9 9 4  ,8.9,1793933,R,Crime,Drama            ,,Movie
+305,Forrest Gump,   1 9 9 4  ,8.8,1770394,PG-13,Drama,Romance            ,,Movie
+306,Game of Thrones,   2 0 1 1-2 0 1 9  ,9.3,1717705,TV-MA,Action,Adventure,Drama            ,Series
+307,The Matrix,   1 9 9 9  ,8.7,1644803,R,Action,Sci-Fi            ,,Movie
+308,The Lord of the Rings: The Fellowship of the Ring,   2 0 0 1  ,8.8,1630944,PG-13,Action,Adventure,Drama            ,Movie
+309,The Lord of the Rings: The Return of the King,   2 0 0 3  ,8.9,1615184,PG-13,Action,Adventure,Drama            ,Movie
+310,The Godfather,   1 9 7 2  ,9.2,1585686,R,Crime,Drama            ,,Movie
+311,The Dark Knight Rises,   2 0 1 2  ,8.4,1492004,PG-13,Action,Adventure            ,,Movie
+312,Interstellar,   2 0 1 4  ,8.6,1469639,PG-13,Adventure,Drama,Sci-Fi            ,Movie
+313,The Lord of the Rings: The Two Towers,   2 0 0 2  ,8.7,1459892,PG-13,Action,Adventure,Drama            ,Movie
+314,Se7en,   1 9 9 5  ,8.6,1415092,R,Crime,Drama,Mystery            ,Movie
+315,Breaking Bad,   2 0 0 8-2 0 1 3  ,9.5,1406342,TV-MA,Crime,Drama,Thriller            ,Series
+316,Django Unchained,   2 0 1 2  ,8.4,1329472,R,Drama,Western            ,,Movie
+317,Gladiator,   2 0 0 0  ,8.5,1317748,R,Action,Adventure,Drama            ,Movie
+318,Batman Begins,   2 0 0 5  ,8.2,1287848,PG-13,Action,Adventure            ,,Movie
+319,The Avengers,   2 0 1 2  ,8,1246863,PG-13,Action,Adventure,Sci-Fi            ,Movie
+320,The Silence of the Lambs,   1 9 9 1  ,8.6,1245696,R,Crime,Drama,Thriller            ,Movie
+321,Inglourious Basterds,   2 0 0 9  ,8.3,1240302,R,Adventure,Drama,War            ,Movie
+322,Saving Private Ryan,   1 9 9 8  ,8.6,1213448,R,Drama,War            ,,Movie
+323,Star Wars: Episode IV - A New Hope,   1 9 7 7  ,8.6,1211607,PG,Action,Adventure,Fantasy            ,Movie
+324,Schindler's List,   1 9 9 3  ,8.9,1192410,R,Biography,Drama,History            ,Movie
+325,The Departed,   2 0 0 6  ,8.5,1168367,R,Crime,Drama,Thriller            ,Movie
+326,The Prestige,   2 0 0 6  ,8.5,1166030,PG-13,Drama,Mystery,Sci-Fi            ,Movie
+327,The Wolf of Wall Street,   2 0 1 3  ,8.2,1153560,R,Biography,Crime,Drama            ,Movie
+328,Star Wars: Episode V - The Empire Strikes Back,   1 9 8 0  ,8.7,1139862,PG,Action,Adventure,Fantasy            ,Movie
+329,The Green Mile,   1 9 9 9  ,8.6,1123080,R,Crime,Drama,Fantasy            ,Movie
+330,Memento,   2 0 0 0  ,8.4,1107818,R,Mystery,Thriller            ,,Movie
+331,The Godfather: Part II,   1 9 7 4  ,9,1107868,R,Crime,Drama            ,,Movie
+332,Avatar,   2 0 0 9  ,7.8,1106231,PG-13,Action,Adventure,Fantasy            ,Movie
+333,Shutter Island,   2 0 1 0  ,8.2,1106162,R,Mystery,Thriller            ,,Movie
+334,American Beauty,   1 9 9 9  ,8.3,1055121,R,Drama            ,,,Movie
+335,Back to the Future,   1 9 8 5  ,8.5,1036912,PG,Adventure,Comedy,Sci-Fi            ,Movie
+336,Titanic,   1 9 9 7  ,7.8,1029275,PG-13,Drama,Romance            ,,Movie
+337,Guardians of the Galaxy,   2 0 1 4  ,8,1029214,PG-13,Action,Adventure,Comedy            ,Movie
+338,American History X,   1 9 9 8  ,8.5,1020440,R,Drama            ,,,Movie
+339,V for Vendetta,   2 0 0 5  ,8.2,1016263,R,Action,Drama,Sci-Fi            ,Movie
+340,Léon: The Professional,   1 9 9 4  ,8.5,1015947,R,Action,Crime,Drama            ,Movie
+341,Pirates of the Caribbean: The Curse of the Black Pearl,   2 0 0 3  ,8,1005246,PG-13,Action,Adventure,Fantasy            ,Movie
+342,Goodfellas,   1 9 9 0  ,8.7,1000216,R,Biography,Crime,Drama            ,Movie
+343,Kill Bill: Vol. 1,   2 0 0 3  ,8.1,984369,R,Action,Crime,Thriller            ,Movie
+344,WALL·E,   2 0 0 8  ,8.4,981770,G,Animation,Adventure,Family            ,Movie
+345,Terminator 2: Judgment Day,   1 9 9 1  ,8.5,981465,R,Action,Sci-Fi            ,,Movie
+346,The Usual Suspects,   1 9 9 5  ,8.5,975780,R,Crime,Mystery,Thriller            ,Movie
+347,Braveheart,   1 9 9 5  ,8.3,946814,R,Biography,Drama,History            ,Movie
+348,Star Wars: Episode VI - Return of the Jedi,   1 9 8 3  ,8.3,934272,PG,Action,Adventure,Fantasy            ,Movie
+349,Finding Nemo,   2 0 0 3  ,8.1,934202,G,Animation,Adventure,Comedy            ,Movie
+350,The Shawshank Redemption,   1 9 9 4  ,9.3,2297597,R,Drama            ,,,Movie
+351,The Dark Knight,   2 0 0 8  ,9,2261822,PG-13,Action,Crime,Drama            ,Movie
+352,Inception,   2 0 1 0  ,8.8,2023823,PG-13,Action,Adventure,Sci-Fi            ,Movie
+353,Fight Club,   1 9 9 9  ,8.8,1821262,R,Drama            ,,,Movie
+354,Pulp Fiction,   1 9 9 4  ,8.9,1793933,R,Crime,Drama            ,,Movie
+355,Forrest Gump,   1 9 9 4  ,8.8,1770394,PG-13,Drama,Romance            ,,Movie
+356,Game of Thrones,   2 0 1 1-2 0 1 9  ,9.3,1717705,TV-MA,Action,Adventure,Drama            ,Series
+357,The Matrix,   1 9 9 9  ,8.7,1644803,R,Action,Sci-Fi            ,,Movie
+358,The Lord of the Rings: The Fellowship of the Ring,   2 0 0 1  ,8.8,1630944,PG-13,Action,Adventure,Drama            ,Movie
+359,The Lord of the Rings: The Return of the King,   2 0 0 3  ,8.9,1615184,PG-13,Action,Adventure,Drama            ,Movie
+360,The Godfather,   1 9 7 2  ,9.2,1585686,R,Crime,Drama            ,,Movie
+361,The Dark Knight Rises,   2 0 1 2  ,8.4,1492004,PG-13,Action,Adventure            ,,Movie
+362,Interstellar,   2 0 1 4  ,8.6,1469639,PG-13,Adventure,Drama,Sci-Fi            ,Movie
+363,The Lord of the Rings: The Two Towers,   2 0 0 2  ,8.7,1459892,PG-13,Action,Adventure,Drama            ,Movie
+364,Se7en,   1 9 9 5  ,8.6,1415092,R,Crime,Drama,Mystery            ,Movie
+365,Breaking Bad,   2 0 0 8-2 0 1 3  ,9.5,1406342,TV-MA,Crime,Drama,Thriller            ,Series
+366,Django Unchained,   2 0 1 2  ,8.4,1329472,R,Drama,Western            ,,Movie
+367,Gladiator,   2 0 0 0  ,8.5,1317748,R,Action,Adventure,Drama            ,Movie
+368,Batman Begins,   2 0 0 5  ,8.2,1287848,PG-13,Action,Adventure            ,,Movie
+369,The Avengers,   2 0 1 2  ,8,1246863,PG-13,Action,Adventure,Sci-Fi            ,Movie
+370,The Silence of the Lambs,   1 9 9 1  ,8.6,1245696,R,Crime,Drama,Thriller            ,Movie
+371,Inglourious Basterds,   2 0 0 9  ,8.3,1240302,R,Adventure,Drama,War            ,Movie
+372,Saving Private Ryan,   1 9 9 8  ,8.6,1213448,R,Drama,War            ,,Movie
+373,Star Wars: Episode IV - A New Hope,   1 9 7 7  ,8.6,1211607,PG,Action,Adventure,Fantasy            ,Movie
+374,Schindler's List,   1 9 9 3  ,8.9,1192410,R,Biography,Drama,History            ,Movie
+375,The Departed,   2 0 0 6  ,8.5,1168367,R,Crime,Drama,Thriller            ,Movie
+376,The Prestige,   2 0 0 6  ,8.5,1166030,PG-13,Drama,Mystery,Sci-Fi            ,Movie
+377,The Wolf of Wall Street,   2 0 1 3  ,8.2,1153560,R,Biography,Crime,Drama            ,Movie
+378,Star Wars: Episode V - The Empire Strikes Back,   1 9 8 0  ,8.7,1139862,PG,Action,Adventure,Fantasy            ,Movie
+379,The Green Mile,   1 9 9 9  ,8.6,1123080,R,Crime,Drama,Fantasy            ,Movie
+380,Memento,   2 0 0 0  ,8.4,1107818,R,Mystery,Thriller            ,,Movie
+381,The Godfather: Part II,   1 9 7 4  ,9,1107868,R,Crime,Drama            ,,Movie
+382,Avatar,   2 0 0 9  ,7.8,1106231,PG-13,Action,Adventure,Fantasy            ,Movie
+383,Shutter Island,   2 0 1 0  ,8.2,1106162,R,Mystery,Thriller            ,,Movie
+384,American Beauty,   1 9 9 9  ,8.3,1055121,R,Drama            ,,,Movie
+385,Back to the Future,   1 9 8 5  ,8.5,1036912,PG,Adventure,Comedy,Sci-Fi            ,Movie
+386,Titanic,   1 9 9 7  ,7.8,1029275,PG-13,Drama,Romance            ,,Movie
+387,Guardians of the Galaxy,   2 0 1 4  ,8,1029214,PG-13,Action,Adventure,Comedy            ,Movie
+388,American History X,   1 9 9 8  ,8.5,1020440,R,Drama            ,,,Movie
+389,V for Vendetta,   2 0 0 5  ,8.2,1016263,R,Action,Drama,Sci-Fi            ,Movie
+390,Léon: The Professional,   1 9 9 4  ,8.5,1015947,R,Action,Crime,Drama            ,Movie
+391,Pirates of the Caribbean: The Curse of the Black Pearl,   2 0 0 3  ,8,1005246,PG-13,Action,Adventure,Fantasy            ,Movie
+392,Goodfellas,   1 9 9 0  ,8.7,1000216,R,Biography,Crime,Drama            ,Movie
+393,Kill Bill: Vol. 1,   2 0 0 3  ,8.1,984369,R,Action,Crime,Thriller            ,Movie
+394,WALL·E,   2 0 0 8  ,8.4,981770,G,Animation,Adventure,Family            ,Movie
+395,Terminator 2: Judgment Day,   1 9 9 1  ,8.5,981465,R,Action,Sci-Fi            ,,Movie
+396,The Usual Suspects,   1 9 9 5  ,8.5,975780,R,Crime,Mystery,Thriller            ,Movie
+397,Braveheart,   1 9 9 5  ,8.3,946814,R,Biography,Drama,History            ,Movie
+398,Star Wars: Episode VI - Return of the Jedi,   1 9 8 3  ,8.3,934272,PG,Action,Adventure,Fantasy            ,Movie
+399,Finding Nemo,   2 0 0 3  ,8.1,934202,G,Animation,Adventure,Comedy            ,Movie
+400,The Shawshank Redemption,   1 9 9 4  ,9.3,2297597,R,Drama            ,,,Movie
+401,The Dark Knight,   2 0 0 8  ,9,2261822,PG-13,Action,Crime,Drama            ,Movie
+402,Inception,   2 0 1 0  ,8.8,2023823,PG-13,Action,Adventure,Sci-Fi            ,Movie
+403,Fight Club,   1 9 9 9  ,8.8,1821262,R,Drama            ,,,Movie
+404,Pulp Fiction,   1 9 9 4  ,8.9,1793933,R,Crime,Drama            ,,Movie
+405,Forrest Gump,   1 9 9 4  ,8.8,1770394,PG-13,Drama,Romance            ,,Movie
+406,Game of Thrones,   2 0 1 1-2 0 1 9  ,9.3,1717705,TV-MA,Action,Adventure,Drama            ,Series
+407,The Matrix,   1 9 9 9  ,8.7,1644803,R,Action,Sci-Fi            ,,Movie
+408,The Lord of the Rings: The Fellowship of the Ring,   2 0 0 1  ,8.8,1630944,PG-13,Action,Adventure,Drama            ,Movie
+409,The Lord of the Rings: The Return of the King,   2 0 0 3  ,8.9,1615184,PG-13,Action,Adventure,Drama            ,Movie
+410,The Godfather,   1 9 7 2  ,9.2,1585686,R,Crime,Drama            ,,Movie
+411,The Dark Knight Rises,   2 0 1 2  ,8.4,1492004,PG-13,Action,Adventure            ,,Movie
+412,Interstellar,   2 0 1 4  ,8.6,1469639,PG-13,Adventure,Drama,Sci-Fi            ,Movie
+413,The Lord of the Rings: The Two Towers,   2 0 0 2  ,8.7,1459892,PG-13,Action,Adventure,Drama            ,Movie
+414,Se7en,   1 9 9 5  ,8.6,1415092,R,Crime,Drama,Mystery            ,Movie
+415,Breaking Bad,   2 0 0 8-2 0 1 3  ,9.5,1406342,TV-MA,Crime,Drama,Thriller            ,Series
+416,Django Unchained,   2 0 1 2  ,8.4,1329472,R,Drama,Western            ,,Movie
+417,Gladiator,   2 0 0 0  ,8.5,1317748,R,Action,Adventure,Drama            ,Movie
+418,Batman Begins,   2 0 0 5  ,8.2,1287848,PG-13,Action,Adventure            ,,Movie
+419,The Avengers,   2 0 1 2  ,8,1246863,PG-13,Action,Adventure,Sci-Fi            ,Movie
+420,The Silence of the Lambs,   1 9 9 1  ,8.6,1245696,R,Crime,Drama,Thriller            ,Movie
+421,Inglourious Basterds,   2 0 0 9  ,8.3,1240302,R,Adventure,Drama,War            ,Movie
+422,Saving Private Ryan,   1 9 9 8  ,8.6,1213448,R,Drama,War            ,,Movie
+423,Star Wars: Episode IV - A New Hope,   1 9 7 7  ,8.6,1211607,PG,Action,Adventure,Fantasy            ,Movie
+424,Schindler's List,   1 9 9 3  ,8.9,1192410,R,Biography,Drama,History            ,Movie
+425,The Departed,   2 0 0 6  ,8.5,1168367,R,Crime,Drama,Thriller            ,Movie
+426,The Prestige,   2 0 0 6  ,8.5,1166030,PG-13,Drama,Mystery,Sci-Fi            ,Movie
+427,The Wolf of Wall Street,   2 0 1 3  ,8.2,1153560,R,Biography,Crime,Drama            ,Movie
+428,Star Wars: Episode V - The Empire Strikes Back,   1 9 8 0  ,8.7,1139862,PG,Action,Adventure,Fantasy            ,Movie
+429,The Green Mile,   1 9 9 9  ,8.6,1123080,R,Crime,Drama,Fantasy            ,Movie
+430,Memento,   2 0 0 0  ,8.4,1107818,R,Mystery,Thriller            ,,Movie
+431,The Godfather: Part II,   1 9 7 4  ,9,1107868,R,Crime,Drama            ,,Movie
+432,Avatar,   2 0 0 9  ,7.8,1106231,PG-13,Action,Adventure,Fantasy            ,Movie
+433,Shutter Island,   2 0 1 0  ,8.2,1106162,R,Mystery,Thriller            ,,Movie
+434,American Beauty,   1 9 9 9  ,8.3,1055121,R,Drama            ,,,Movie
+435,Back to the Future,   1 9 8 5  ,8.5,1036912,PG,Adventure,Comedy,Sci-Fi            ,Movie
+436,Titanic,   1 9 9 7  ,7.8,1029275,PG-13,Drama,Romance            ,,Movie
+437,Guardians of the Galaxy,   2 0 1 4  ,8,1029214,PG-13,Action,Adventure,Comedy            ,Movie
+438,American History X,   1 9 9 8  ,8.5,1020440,R,Drama            ,,,Movie
+439,V for Vendetta,   2 0 0 5  ,8.2,1016263,R,Action,Drama,Sci-Fi            ,Movie
+440,Léon: The Professional,   1 9 9 4  ,8.5,1015947,R,Action,Crime,Drama            ,Movie
+441,Pirates of the Caribbean: The Curse of the Black Pearl,   2 0 0 3  ,8,1005246,PG-13,Action,Adventure,Fantasy            ,Movie
+442,Goodfellas,   1 9 9 0  ,8.7,1000216,R,Biography,Crime,Drama            ,Movie
+443,Kill Bill: Vol. 1,   2 0 0 3  ,8.1,984369,R,Action,Crime,Thriller            ,Movie
+444,WALL·E,   2 0 0 8  ,8.4,981770,G,Animation,Adventure,Family            ,Movie
+445,Terminator 2: Judgment Day,   1 9 9 1  ,8.5,981465,R,Action,Sci-Fi            ,,Movie
+446,The Usual Suspects,   1 9 9 5  ,8.5,975780,R,Crime,Mystery,Thriller            ,Movie
+447,Braveheart,   1 9 9 5  ,8.3,946814,R,Biography,Drama,History            ,Movie
+448,Star Wars: Episode VI - Return of the Jedi,   1 9 8 3  ,8.3,934272,PG,Action,Adventure,Fantasy            ,Movie
+449,Finding Nemo,   2 0 0 3  ,8.1,934202,G,Animation,Adventure,Comedy            ,Movie
+450,The Shawshank Redemption,   1 9 9 4  ,9.3,2297597,R,Drama            ,,,Movie
+451,The Dark Knight,   2 0 0 8  ,9,2261822,PG-13,Action,Crime,Drama            ,Movie
+452,Inception,   2 0 1 0  ,8.8,2023823,PG-13,Action,Adventure,Sci-Fi            ,Movie
+453,Fight Club,   1 9 9 9  ,8.8,1821262,R,Drama            ,,,Movie
+454,Pulp Fiction,   1 9 9 4  ,8.9,1793933,R,Crime,Drama            ,,Movie
+455,Forrest Gump,   1 9 9 4  ,8.8,1770394,PG-13,Drama,Romance            ,,Movie
+456,Game of Thrones,   2 0 1 1-2 0 1 9  ,9.3,1717705,TV-MA,Action,Adventure,Drama            ,Series
+457,The Matrix,   1 9 9 9  ,8.7,1644803,R,Action,Sci-Fi            ,,Movie
+458,The Lord of the Rings: The Fellowship of the Ring,   2 0 0 1  ,8.8,1630944,PG-13,Action,Adventure,Drama            ,Movie
+459,The Lord of the Rings: The Return of the King,   2 0 0 3  ,8.9,1615184,PG-13,Action,Adventure,Drama            ,Movie
+460,The Godfather,   1 9 7 2  ,9.2,1585686,R,Crime,Drama            ,,Movie
+461,The Dark Knight Rises,   2 0 1 2  ,8.4,1492004,PG-13,Action,Adventure            ,,Movie
+462,Interstellar,   2 0 1 4  ,8.6,1469639,PG-13,Adventure,Drama,Sci-Fi            ,Movie
+463,The Lord of the Rings: The Two Towers,   2 0 0 2  ,8.7,1459892,PG-13,Action,Adventure,Drama            ,Movie
+464,Se7en,   1 9 9 5  ,8.6,1415092,R,Crime,Drama,Mystery            ,Movie
+465,Breaking Bad,   2 0 0 8-2 0 1 3  ,9.5,1406342,TV-MA,Crime,Drama,Thriller            ,Series
+466,Django Unchained,   2 0 1 2  ,8.4,1329472,R,Drama,Western            ,,Movie
+467,Gladiator,   2 0 0 0  ,8.5,1317748,R,Action,Adventure,Drama            ,Movie
+468,Batman Begins,   2 0 0 5  ,8.2,1287848,PG-13,Action,Adventure            ,,Movie
+469,The Avengers,   2 0 1 2  ,8,1246863,PG-13,Action,Adventure,Sci-Fi            ,Movie
+470,The Silence of the Lambs,   1 9 9 1  ,8.6,1245696,R,Crime,Drama,Thriller            ,Movie
+471,Inglourious Basterds,   2 0 0 9  ,8.3,1240302,R,Adventure,Drama,War            ,Movie
+472,Saving Private Ryan,   1 9 9 8  ,8.6,1213448,R,Drama,War            ,,Movie
+473,Star Wars: Episode IV - A New Hope,   1 9 7 7  ,8.6,1211607,PG,Action,Adventure,Fantasy            ,Movie
+474,Schindler's List,   1 9 9 3  ,8.9,1192410,R,Biography,Drama,History            ,Movie
+475,The Departed,   2 0 0 6  ,8.5,1168367,R,Crime,Drama,Thriller            ,Movie
+476,The Prestige,   2 0 0 6  ,8.5,1166030,PG-13,Drama,Mystery,Sci-Fi            ,Movie
+477,The Wolf of Wall Street,   2 0 1 3  ,8.2,1153560,R,Biography,Crime,Drama            ,Movie
+478,Star Wars: Episode V - The Empire Strikes Back,   1 9 8 0  ,8.7,1139862,PG,Action,Adventure,Fantasy            ,Movie
+479,The Green Mile,   1 9 9 9  ,8.6,1123080,R,Crime,Drama,Fantasy            ,Movie
+480,Memento,   2 0 0 0  ,8.4,1107818,R,Mystery,Thriller            ,,Movie
+481,The Godfather: Part II,   1 9 7 4  ,9,1107868,R,Crime,Drama            ,,Movie
+482,Avatar,   2 0 0 9  ,7.8,1106231,PG-13,Action,Adventure,Fantasy            ,Movie
+483,Shutter Island,   2 0 1 0  ,8.2,1106162,R,Mystery,Thriller            ,,Movie
+484,American Beauty,   1 9 9 9  ,8.3,1055121,R,Drama            ,,,Movie
+485,Back to the Future,   1 9 8 5  ,8.5,1036912,PG,Adventure,Comedy,Sci-Fi            ,Movie
+486,Titanic,   1 9 9 7  ,7.8,1029275,PG-13,Drama,Romance            ,,Movie
+487,Guardians of the Galaxy,   2 0 1 4  ,8,1029214,PG-13,Action,Adventure,Comedy            ,Movie
+488,American History X,   1 9 9 8  ,8.5,1020440,R,Drama            ,,,Movie
+489,V for Vendetta,   2 0 0 5  ,8.2,1016263,R,Action,Drama,Sci-Fi            ,Movie
+490,Léon: The Professional,   1 9 9 4  ,8.5,1015947,R,Action,Crime,Drama            ,Movie
+491,Pirates of the Caribbean: The Curse of the Black Pearl,   2 0 0 3  ,8,1005246,PG-13,Action,Adventure,Fantasy            ,Movie
+492,Goodfellas,   1 9 9 0  ,8.7,1000216,R,Biography,Crime,Drama            ,Movie
+493,Kill Bill: Vol. 1,   2 0 0 3  ,8.1,984369,R,Action,Crime,Thriller            ,Movie
+494,WALL·E,   2 0 0 8  ,8.4,981770,G,Animation,Adventure,Family            ,Movie
+495,Terminator 2: Judgment Day,   1 9 9 1  ,8.5,981465,R,Action,Sci-Fi            ,,Movie
+496,The Usual Suspects,   1 9 9 5  ,8.5,975780,R,Crime,Mystery,Thriller            ,Movie
+497,Braveheart,   1 9 9 5  ,8.3,946814,R,Biography,Drama,History            ,Movie
+498,Star Wars: Episode VI - Return of the Jedi,   1 9 8 3  ,8.3,934272,PG,Action,Adventure,Fantasy            ,Movie
+499,Finding Nemo,   2 0 0 3  ,8.1,934202,G,Animation,Adventure,Comedy            ,Movie

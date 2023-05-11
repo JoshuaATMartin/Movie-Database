@@ -1,0 +1,21 @@
+C:\Users\Student\Desktop\Database Project\New Project\DataBase Media Project\DataBase Media Project\bin\x64\Debug\Media.mdf
+C:\Users\Student\Desktop\Database Project\New Project\DataBase Media Project\DataBase Media Project\bin\x64\Debug\Media_log.ldf
+C:\Users\Student\Desktop\Database Project\New Project\DataBase Media Project\DataBase Media Project\bin\x64\Debug\DataBase Media Project.exe.config
+C:\Users\Student\Desktop\Database Project\New Project\DataBase Media Project\DataBase Media Project\bin\x64\Debug\DataBase Media Project.exe
+C:\Users\Student\Desktop\Database Project\New Project\DataBase Media Project\DataBase Media Project\bin\x64\Debug\DataBase Media Project.pdb
+C:\Users\Student\Desktop\Database Project\New Project\DataBase Media Project\DataBase Media Project\obj\x64\Debug\DataBase Media Project.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Database Project\New Project\DataBase Media Project\DataBase Media Project\obj\x64\Debug\DataBase_Media_Project.Form1.resources
+C:\Users\Student\Desktop\Database Project\New Project\DataBase Media Project\DataBase Media Project\obj\x64\Debug\DataBase_Media_Project.Properties.Resources.resources
+C:\Users\Student\Desktop\Database Project\New Project\DataBase Media Project\DataBase Media Project\obj\x64\Debug\DataBase_Media_Project.ViewAll.resources
+C:\Users\Student\Desktop\Database Project\New Project\DataBase Media Project\DataBase Media Project\obj\x64\Debug\DataBase Media Project.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Database Project\New Project\DataBase Media Project\DataBase Media Project\obj\x64\Debug\DataBase Media Project.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Database Project\New Project\DataBase Media Project\DataBase Media Project\obj\x64\Debug\DataBase Media Project.exe
+C:\Users\Student\Desktop\Database Project\New Project\DataBase Media Project\DataBase Media Project\obj\x64\Debug\DataBase Media Project.pdb
+C:\Users\Student\Desktop\Database Project\New Project\DataBase Media Project\DataBase Media Project\obj\x64\Debug\DataBase_Media_Project.insertMovies.resources
+C:\Users\Student\Desktop\Database Project\New Project\DataBase Media Project\DataBase Media Project\obj\x64\Debug\DataBase_Media_Project.insertSeries.resources
+C:\Users\Student\Desktop\Database Project\New Project\DataBase Media Project\DataBase Media Project\obj\x64\Debug\DataBase_Media_Project.viewMovies.resources
+C:\Users\Student\Desktop\Database Project\New Project\DataBase Media Project\DataBase Media Project\obj\x64\Debug\DataBase_Media_Project.viewSeries.resources
+C:\Users\Student\Desktop\Database Project\New Project\DataBase Media Project\DataBase Media Project\obj\x64\Debug\DataBase_Media_Project.searchSeries.resources
+C:\Users\Student\Desktop\Database Project\New Project\DataBase Media Project\DataBase Media Project\obj\x64\Debug\DataBase_Media_Project.searchMovies.resources
+C:\Users\Student\Desktop\Database Project\New Project\DataBase Media Project\DataBase Media Project\obj\x64\Debug\DataBase_Media_Project.deleteMovie.resources
+C:\Users\Student\Desktop\Database Project\New Project\DataBase Media Project\DataBase Media Project\obj\x64\Debug\DataBase_Media_Project.deleteSeries.resources
