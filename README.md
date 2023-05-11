@@ -1,5 +1,5 @@
 # Movie-Database
-A group project to build a simple Windows Form application where data is scraped from the IMDB website and used to create a personal collection of movies.
+A group project to build a simple Windows Form application using the .NET framework where data is scraped from the IMDB website using a python script and used to create a personal collection of movies.
 # My Role:
 * Design and create the screens for the UI.
 * Link normalised database to application.
