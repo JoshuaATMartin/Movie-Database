@@ -6,6 +6,10 @@ A group project to build a simple Windows Form application using the .NET framew
 *  set up back-end to perform CRUD operations using SQL.
 *  Design UML class diagrams.
 
+# WHat I learned:
+* Creating a local database for the application
+* Learnt how to perform CRUD operations using SQL functions 
+
 
 # Screenshots:
 
